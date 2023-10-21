@@ -2,6 +2,7 @@
 ### Hello There 👋, Prabin Adhikari
 #### Design and Development
 I'm Prabin from Nepal, and I create design and development stuff. I appreciate learning new languages and frameworks, such as React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and general design. You can find me on Facebook at facebook.com/prawin8522.
+(https://www.canva.com/design/DAFx6UVADXc/JRCl0361qmNuRjGu-cuZKw/view?utm_content=DAFx6UVADXc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Skills:  REACT / JS / HTML / CSS
 
