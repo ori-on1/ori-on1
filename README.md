@@ -1,5 +1,5 @@
 
-### Hi there 👋, Prabin Adhikari
+### Hello There 👋, Prabin Adhikari
 #### Design and Development
 I'm Prabin from Nepal, and I create design and development stuff. I appreciate learning new languages and frameworks, such as React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and general design. You can find me on Facebook at facebook.com/prawin8522.
 
