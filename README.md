@@ -32,4 +32,4 @@ Skills:  REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
 
-![Profile views](https://gpvc.arturio.dev/ori-on1)  
+  
