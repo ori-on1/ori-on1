@@ -33,7 +33,7 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori-on1&show_icons=true&theme=transparent)   
 
 ![GitHub metrics](https://metrics.lecoq.io/ori-on1)  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ori-on1)](https://github.com/ori-on1/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ori-on1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
 
