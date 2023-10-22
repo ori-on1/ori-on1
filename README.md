@@ -1,9 +1,9 @@
 
 ### Hello There 👋, Prabin Adhikari
 #### Design and Development
-I'm Prabin from Nepal, and I create design and development stuff. I appreciate learning new languages and frameworks, such as React and React Native, as well as working![Github Banner ](https://github.com/ori-on1/ori-on1/assets/107096370/886f5233-2aea-432b-94f4-637a292f8865)
+I'm Prabin from Nepal, and I create design and development stuff. I appreciate learning new languages and frameworks, such as React and React Native, as well as working
  in WordPress. I also enjoy wireframing, UI, UX, and general design. You can find me on Facebook at facebook.com/prawin8522.
-
+![Github Banner ](https://github.com/ori-on1/ori-on1/assets/107096370/886f5233-2aea-432b-94f4-637a292f8865)
 
 Skills:  REACT / JS / HTML / CSS
 
