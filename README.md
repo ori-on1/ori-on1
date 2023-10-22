@@ -13,8 +13,7 @@ Skills:  REACT / JS / HTML / CSS
 - 💬 Ask me about Anything 
 - 📫 How to reach me: facebook.com/prawin8522 
 - 😄 Pronouns: PR4B1N / ori-on1  
--  ![image](https://github.com/ori-on1/ori-on1/assets/107096370/78e57761-0ec1-4de5-aa83-a7b972e7f4aa)
-Fun fact: Digital Magic with HTML, CSS, and a Touch of Creativity! 
+- Fun fact: Digital Magic with HTML, CSS, and a Touch of Creativity! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/ori-on1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/prabin-adhikari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook.com/prawin8522)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/instagram.com/prawin8522/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/twitter.com/PrabinA60668202)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZxO9V9qqMZ9GXgDeaq1UZw)   
