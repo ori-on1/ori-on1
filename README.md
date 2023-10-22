@@ -29,11 +29,10 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-on1)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-on1&hide_progress=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori-on1&show_icons=true&theme=transparent)   
 
 ![GitHub metrics](https://metrics.lecoq.io/ori-on1)  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ori-on1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
 
