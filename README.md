@@ -7,21 +7,23 @@ I'm Prabin from Nepal, and I create design and development stuff. I appreciate l
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on NepaTech Tribe 
+- 🔭 I’m currently working as On City Graphic Designer at Coding Olympics Nepal 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on UI, UX and Frontend Technology 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: facebook.com/prawin8522 
 - 😄 Pronouns: PR4B1N / ori-on1  
-- Fun fact: Digital Magic with HTML, CSS, and a Touch of Creativity! 
+- 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽: Digital Magic with HTML, CSS, and a Touch of Creativity! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/ori-on1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/prabin-adhikari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook.com/prawin8522)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/instagram.com/prawin8522/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/twitter.com/PrabinA60668202)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZxO9V9qqMZ9GXgDeaq1UZw)   
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-######Communities :-
-
+###### Ⓒⓞⓜⓜⓤⓝⓘⓣⓘⓔⓢ :-
+🅲🅾🅼🅼🆄🅽🅸🆃🆈 🅻🅴🅰🅳 🅰🆃 🅽🅴🅿🆃🅴🅲🅷 🆃🆁🅸🅱🅴
+🅾🅽 🅲🅸🆃🆈 🅶🆁🅰🅿🅷🅸🅲 🅳🅴🆂🅸🅶🅽🅴🆁 🅰🆃 🅲🅾🅳🅸🅽🅶 🅾🅻🆈🅼🅿🅸🅲🆂 🅽🅴🅿🅰🅻
+🅶🅴🅽🅴🆁🅰🅻 🅼🅴🅼🅱🅴🆁 🅰🆃 🅲🅾🅳🅴 🅵🅾🆁 🅲🅷🅰🅽🅶🅴
 
 
 
