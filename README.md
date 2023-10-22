@@ -22,9 +22,7 @@ Skills:  REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-on1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ori-on1&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ori-on1)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ori-on1&show_icons=true&count_private=true)    
 
 ![GitHub metrics](https://metrics.lecoq.io/ori-on1)  
 
