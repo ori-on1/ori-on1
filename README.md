@@ -25,6 +25,9 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 - 🅾🅽 🅲🅸🆃🆈 🅶🆁🅰🅿🅷🅸🅲 🅳🅴🆂🅸🅶🅽🅴🆁 🅰🆃 🅲🅾🅳🅸🅽🅶 🅾🅻🆈🅼🅿🅸🅲🆂 🅽🅴🅿🅰🅻
 - 🅶🅴🅽🅴🆁🅰🅻 🅼🅴🅼🅱🅴🆁 🅰🆃 🅲🅾🅳🅴 🅵🅾🆁 🅲🅷🅰🅽🅶🅴
 
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-on1)](https://github.com/anuraghazra/github-readme-stats)
