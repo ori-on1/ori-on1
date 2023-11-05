@@ -1,6 +1,6 @@
-<a href="#"><h1 id="pr4b1n" align="center">-PR4B1N </a><img src="https://komarev.com/ghpvc/?username=ori-on1&amp;color=green" alt="view"></h1>
+<a href="#"><h1 id="pr4b1n" align="center">-PR4B1N </a>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=UX+Visionary+With+A+Code+And+Security+Flair+Crafting+Seamless+Digital+Experiences!" alt="Intro" >
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=UX+Visionary+With+Code+And+Security" alt="Intro" >
 
 
 
