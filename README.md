@@ -3,59 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=UI+Visionary+With+Code+And+Security" alt="Intro" >
 
 
-<h2 align="center">💻Tools and Technologies</h2>
-
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Sass" />
-        <br>Figma
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-        <br>VSCode
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Vim" />
-        <br>Canva
-      </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=clickup" width="48" height="48" alt="Vim" />
-        <br>Clickup
-      </td>
-  
-    </tr>
-  </table>
-</div>
-
-
-
-
-
 
 
 ### Hello There 👋
