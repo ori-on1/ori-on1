@@ -44,9 +44,9 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 
 
 ###### 🅲🅾🅼🅼🆄🅽🅸🆃🅸🅴🆂: :-
-##- Community lead at NepTech Tribe
-##- OnCity Graphic Designer at Coding Olympics Nepal
-##- Executive Member at Code For Change
+- Community lead at NepTech Tribe
+- - OnCity Graphic Designer at Coding Olympics Nepal
+- Executive Member at Code For Change
 
 
 
