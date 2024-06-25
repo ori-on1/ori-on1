@@ -43,10 +43,11 @@
         <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Vim" />
         <br>Canva
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-        <br>jQuery
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=clickup" width="48" height="48" alt="Vim" />
+        <br>Clickup
       </td>
+  
     </tr>
   </table>
 </div>
