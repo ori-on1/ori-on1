@@ -8,7 +8,7 @@
 ### Hello There 👋
 #### Design and Development
 I'm Prabin from Nepal, I create design and development stuff. I appreciate learning new languages and frameworks. I also enjoy wireframing, UI, UX, and other design. You can find me on Facebook at facebook.com/prawin8522.
-![Github Banner ](https://github.com/ori-on1/ori-on1/assets/107096370/886f5233-2aea-432b-94f4-637a292f8865)
+![Github Banner](https://github.com/ori-on1/ori-on1/assets/107096370/886f5233-2aea-432b-94f4-637a292f8865)
 
 
 
@@ -61,15 +61,15 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ori-on1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ori-on1&theme=onedark)](https://github.com/ori-on1/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-on1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-on1)](https://github.com/ori-on1/github-readme-stats)
 
 
 ![ori-on1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori-on1&show_icons=true&theme=transparent)   
 
 ![GitHub metrics](https://metrics.lecoq.io/ori-on1)  
-
+ 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
 
 #### PROFILE VIEWS
