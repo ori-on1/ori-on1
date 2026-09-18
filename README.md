@@ -58,7 +58,7 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ori-on1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ori-on1&theme=onedark)](https://github.com/ori-on1/github-profile-trophy)
