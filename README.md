@@ -50,14 +50,6 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 - Executive Member at Code For Change
 
 
-
-
-
-
-
-![ori-on1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori-on1&show_icons=true&theme=transparent)   
-
-![GitHub metrics](https://metrics.lecoq.io/ori-on1)  
  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
 
