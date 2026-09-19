@@ -55,17 +55,6 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 
 
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ori-on1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ori-on1&theme=onedark)](https://github.com/ori-on1/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-on1)](https://github.com/ori-on1/github-readme-stats)
-
-
 ![ori-on1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori-on1&show_icons=true&theme=transparent)   
 
 ![GitHub metrics](https://metrics.lecoq.io/ori-on1)  
@@ -73,4 +62,4 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
 
 #### PROFILE VIEWS
-  ![Visitor's Count](https://profile-counter.glitch.me/%7Bori-on1%7D/count.svg)
+
