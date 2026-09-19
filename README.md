@@ -50,7 +50,9 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 - Executive Member at Code For Change
 
 
-(https://github.com/Ashutosh00710/github-readme-activity-graph/issues/197#issuecomment-1560633754).
+ <a href="https://repl.it/github/Ashutosh00710/github-readme-activity-graph">
+   <img alt="Run on Repl.it" src="https://repl.it/badge/github/ori-on1/github-readme-activity-graph" style="height: 40px; width: 190px;" />
+ </a>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
 
