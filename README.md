@@ -48,8 +48,8 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 - Community lead at NepTech Tribe
 - OnCity Graphic Designer at Coding Olympics Nepal
 - Executive Member at Code For Change
-
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fd57579-d5a3-4f84-913d-a9fc01e87cc2" width='35' height='35' />
+><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0fd57579-d5a3-4f84-913d-a9fc01e87cc2" />
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
