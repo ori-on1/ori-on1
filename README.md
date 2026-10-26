@@ -10,7 +10,7 @@
 I'm Prabin from Nepal, I create design and development stuff. I appreciate learning new languages and frameworks. I also enjoy wireframing, UI, UX, and other design. You can find me on Facebook at facebook.com/prawin8522.
 ![Github Banner](https://github.com/ori-on1/ori-on1/assets/107096370/886f5233-2aea-432b-94f4-637a292f8865)
 
-
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0fd57579-d5a3-4f84-913d-a9fc01e87cc2"/>
 
 
 
@@ -48,8 +48,7 @@ I'm Prabin from Nepal, I create design and development stuff. I appreciate learn
 - Community lead at NepTech Tribe
 - OnCity Graphic Designer at Coding Olympics Nepal
 - Executive Member at Code For Change
-><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0fd57579-d5a3-4f84-913d-a9fc01e87cc2" />
+
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ori-on1)  
